@@ -1,5 +1,4 @@
-title: [MeToo Movement Impact Analysis]
-email: your-email@example.com
+title: MeToo Movement Impact Analysis
 description: >- # this means to ignore newlines until "baseurl:"
   Has the MeToo movement affected the representation of women in the newspapers?
 baseurl: "/essai" # the subpath of your site, e.g. /blog
